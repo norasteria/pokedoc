@@ -1,6 +1,6 @@
 POKEDOC APP
 
 
-# Tech Info
+### Tech Info
 - NextJS
 - Typescript
